@@ -1,7 +1,8 @@
 # STAT5702-Community-Contribution
 This is the community contribution: Video Tutorial for the course STAT5702.
 
-**Dataset link**: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+## Dataset link
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
 ## Import dataset
 ## Import packages
