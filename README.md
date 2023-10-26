@@ -3,16 +3,16 @@ This is the community contribution: Video Tutorial for the course STAT5702.
 
 # X
 For numeric data:
-histogram
-density plot
+* histogram
+* density plot
 
 For categorical data:
-barchart
+* barchart
 
 ## y & X
 For numeric data:
-scatterplot
+* scatterplot
 
 For categorical data:
-boxplot
+* boxplot
 
